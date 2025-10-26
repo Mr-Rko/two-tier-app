@@ -1,7 +1,6 @@
-# Flask Admin Dashboard & API
+# Flask Admin Dashboard
 
-A modern, secure, and Docker-ready **Flask Admin Dashboard** with **MySQL backend** and **RESTful API endpoints**.  
-This project allows you to manage admins, track activity, and integrate with other websites via API.
+A modern, secure, and Docker-ready **Flask Admin Dashboard** with **MySQL backend** 
 
 ---
 
