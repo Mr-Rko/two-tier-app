@@ -50,7 +50,7 @@ MYSQL_DB=admindb
 1. Clone the repo:
 ```
 git clone https://github.com/Mr-Rko/two-tier-app.git
-cd flask-admin-dashboard
+cd two-tier-app
 ```
 2. Set environment variables (or use .env file):
 ```
@@ -79,7 +79,7 @@ docker run -d -p 5000:5000 --name flask-admin-app \
 -e MYSQL_USER=<mysql_user> \
 -e MYSQL_PASSWORD=<mysql_password> \
 -e MYSQL_DB=<mysql_db> \
-flask-admin-app
+two-tier-app
 ```
 
 
