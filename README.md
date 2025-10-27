@@ -49,7 +49,7 @@ MYSQL_DB=admindb
 
 1. Clone the repo:
 ```
-git clone https://github.com/Mr-Rko/flask-admin-dashboard.git
+git clone https://github.com/Mr-Rko/two-tier-app.git
 cd flask-admin-dashboard
 ```
 2. Set environment variables (or use .env file):
